@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> About Mahdi</title>
+
+</head>
+
+<body>
+ 
+<h1>About Mahdi Abukhaled</h1><hr>
+<p>My name is Mahdi and I am <b> Smart, Stubid, and kind</b></p>
+
+<h2>My Courses For This Semester:</h2>
+<ul>
+<li>Web Development</li>
+<li>Data Comunication</li>
+<li>Operating System</li>
+<li>Multimedia</li>
+<li>Intoduction to graduation project</li>
+</ul>
+
+<h2>My Favorite Movies/ TV Shows: </h2>
+<i>(I don't watch many movies nor TV shows but there are some:)</i>
+<ol>
+<li>Divergent <a href="https://www.imdb.com/title/tt1840309/?ref_=nv_sr_srsg_0">IMDb</a></li>
+
+
+<li>Insurgent <a href="https://www.imdb.com/title/tt2908446/?ref_=fn_al_tt_1">IMDb</a></li>
+<li>Allegiant <a href="https://www.imdb.com/title/tt3410834/?ref_=tt_sims_tt">IMDb</a></li>
+<li>Big Bang Theory <a href="https://www.imdb.com/title/tt0898266/?ref_=nv_sr_srsg_0">IMDb</a></li>
+<li>Friends <a href="https://www.imdb.com/title/tt0108778/?ref_=fn_al_tt_1">IMDb</a></li>
+</ol>
+
+<h2>My Moods:</h2>
+<b>Overthinking: </b><img src="ways-too.jpg" alt="Overthinking" style="width: 500px;height: 500px;">
+<b> Passion: </b><img src="unnamed.jpg" alt="Passion" style="width: 500px;height: 500px;">
+
+<h2>Facts About My Neighbors:</h2>
+<ul>
+    <li>Fight with each other regularly</li>
+    <li>Loud  children noises all the time</li>
+    <li>Kind and always trying to help</li>
+</ul>
+
+
+
+</body>
+</html>
